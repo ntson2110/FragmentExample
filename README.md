@@ -1,6 +1,8 @@
 # # Ứng dụng từ bài: <a href="https://ngocminhtran.com/2018/10/17/fragments-trong-android/">Fragments trong Android</a>
 <a href="https://github.com/ntson2110/hello">Làm quen môi trường Android</a>
 
+<a href="https://github.com/ntson2110/hello">Làm quen môi trường Android</a>
+
 <a href="https://github.com/ntson2110/FragmentExample">Fragments trong Android</a>
 
 <a href="https://github.com/ntson2110/MotionEventActvity">Sự kiện và xử lý sự kiện touch và multi-touch trong Android</a>
@@ -11,7 +13,7 @@
 
 <a href="https://github.com/ntson2110/ImplicitIntent">Đối tượng Intent trong Android Phần 2</a>
 
-<a href="https://github.com/ntson2110/SendBroadcat">Đối tượng Intent trong Android Phần 3</a>
+<a href="https://github.com/ntson2110/SendBroadca">Đối tượng Intent trong Android Phần 3</a>
 
 <a href="https://github.com/ntson2110/CommonGestures">Phát hiện cử chỉ người dùng </a>
 
