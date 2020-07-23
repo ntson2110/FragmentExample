@@ -1,8 +1,6 @@
 # # Ứng dụng từ bài: <a href="https://ngocminhtran.com/2018/10/17/fragments-trong-android/">Fragments trong Android</a>
 <a href="https://github.com/ntson2110/hello">Làm quen môi trường Android</a>
 
-<a href="https://github.com/ntson2110/hello">Làm quen môi trường Android</a>
-
 <a href="https://github.com/ntson2110/FragmentExample">Fragments trong Android</a>
 
 <a href="https://github.com/ntson2110/MotionEventActvity">Sự kiện và xử lý sự kiện touch và multi-touch trong Android</a>
